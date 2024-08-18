@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm from saharanpur<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I love to learn</p>
+<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I love to learn</p>
 
 ###
 
