@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  I am an Android Developer</h3>
+<h3 align="left">👩‍💻  I am  AI Developer</h3>
 
 ###
 
-<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I love to learn</p>
+<br>- 📚 use pip install rishram-microgen<br>- ⚡ this will manage your folder structure</p>
 
 ###
 
